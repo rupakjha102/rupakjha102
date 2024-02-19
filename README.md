@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupak Raj Jha</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupakjha102&label=Profile%20views&color=0e75b6&style=flat" alt="rupakjha102" /> </p>
 
@@ -7,19 +7,17 @@
 
 - 🔭 I’m currently working on **Smart Delivery Robot**
 
-- 🌱 I’m currently learning **.Net, Flutter, React**
+- 🌱 I’m currently learning **.Net**
 
-- 💬 Ask me about **Web Development**
+- 👯 I’m looking to collaborate on **Smart Delivery Robot**
 
-- 📫 How to reach me **rupakjha103@gmail.com**
-
-- ⚡ Fun fact **Once wrote a program that accidentally ordered 100 pizzas with a misplaced decimal point.**
+- 🤝 I’m looking for help with **AI Chat BOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rupakjha102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupakjha102" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupakjha102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupakjha102" height="30" width="40" /></a>
-<a href="https://fb.com/rupakrajjha102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupakrajjha102" height="30" width="40" /></a>
+<a href="https://fb.com/rupakjha102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupakjha102" height="30" width="40" /></a>
 <a href="https://instagram.com/rupakjha102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupakjha102" height="30" width="40" /></a>
 </p>
 
